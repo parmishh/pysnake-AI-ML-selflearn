@@ -1,4 +1,5 @@
-# pysnake-AI-ML-selflearn
+# pysnake-AI-ML-selflearn  
+
 ML based selflearning pysnake game
 
 # Overview
@@ -20,8 +21,10 @@ ML based selflearning pysnake game
 # Bellman Equations
 
 ![Screenshot_20230116-204129_YouTube](https://user-images.githubusercontent.com/91942072/212760857-9430b7d4-abb0-499c-9771-30af35d4fe1e.jpg)
-
+ 
+ 
 ![Screenshot_20230116-204150_YouTube](https://user-images.githubusercontent.com/91942072/212760924-4aecb7c1-93ac-4d2f-b74b-7aec31fa1690.jpg)
+
 
 ![Screenshot_20230116-204256_YouTube](https://user-images.githubusercontent.com/91942072/212760956-86ccd77b-893e-4ebc-baa8-61c456fcadc4.jpg)
 
